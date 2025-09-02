@@ -1,6 +1,7 @@
 # PiDroneUI  
 
 C++ wxWidgets drone simulator with real-time telemetry visualization and Raspberry Pi socket-based data streaming.  
+![Drone UI Screenshot](gui.PNG)
 
 ---
 
